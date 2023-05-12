@@ -127,7 +127,7 @@ public class AdminController {
 	 * @param tel
 	 * @param sex
 	 * @param email
-	 * @param isVip
+	 * @param
 	 * @return
 	 */
 	private SessionInfo createSession(long userId, String username, String realname, String tel, String sex, String email, String isvip){
